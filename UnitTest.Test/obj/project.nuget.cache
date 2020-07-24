@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "5Zcw9dLwAvJHZQqzoJVWDwlovq2PTdo9M5Kvnk0+xBztpzNefRmvO9P4P/5a5ZlVrcH1PjYQKiaAWnhG3pcgxA==",
+  "dgSpecHash": "RurgLVuPh3T0TmUzPVN6W+yk8i4ag4V8MnXSuegywBfqxBTi8tXv/SQpdwe5Pj3oeUfqCdIVhnre5C+NpLsd6A==",
   "success": true,
   "projectFilePath": "C:\\Lager\\Lager\\UnitTest.Test\\UnitTest.Test.csproj",
   "expectedPackageFiles": [
@@ -13,8 +13,8 @@
     "C:\\Users\\Jesper\\.nuget\\packages\\microsoft.testplatform.objectmodel\\16.5.0\\microsoft.testplatform.objectmodel.16.5.0.nupkg.sha512",
     "C:\\Users\\Jesper\\.nuget\\packages\\microsoft.testplatform.testhost\\16.5.0\\microsoft.testplatform.testhost.16.5.0.nupkg.sha512",
     "C:\\Users\\Jesper\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
-    "C:\\Users\\Jesper\\.nuget\\packages\\mstest.testadapter\\2.1.0\\mstest.testadapter.2.1.0.nupkg.sha512",
-    "C:\\Users\\Jesper\\.nuget\\packages\\mstest.testframework\\2.1.0\\mstest.testframework.2.1.0.nupkg.sha512",
+    "C:\\Users\\Jesper\\.nuget\\packages\\mstest.testadapter\\2.1.2\\mstest.testadapter.2.1.2.nupkg.sha512",
+    "C:\\Users\\Jesper\\.nuget\\packages\\mstest.testframework\\2.1.2\\mstest.testframework.2.1.2.nupkg.sha512",
     "C:\\Users\\Jesper\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
     "C:\\Users\\Jesper\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
     "C:\\Users\\Jesper\\.nuget\\packages\\nuget.frameworks\\5.0.0\\nuget.frameworks.5.0.0.nupkg.sha512",

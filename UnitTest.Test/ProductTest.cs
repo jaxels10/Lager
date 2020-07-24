@@ -7,7 +7,7 @@ using System.Text;
 namespace UnitTest.Test
 {
     [TestClass]
-    class ProductTest
+    public class ProductTest
     {
         private readonly ProductTest _productTest;
         public Product product; 
