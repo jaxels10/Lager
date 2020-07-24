@@ -1,0 +1,9 @@
+C:\Lager\Lager\Lager.Core\bin\Debug\netcoreapp3.1\Lager.Core.deps.json
+C:\Lager\Lager\Lager.Core\bin\Debug\netcoreapp3.1\Lager.Core.dll
+C:\Lager\Lager\Lager.Core\bin\Debug\netcoreapp3.1\Lager.Core.pdb
+C:\Lager\Lager\Lager.Core\obj\Debug\netcoreapp3.1\Lager.Core.csprojAssemblyReference.cache
+C:\Lager\Lager\Lager.Core\obj\Debug\netcoreapp3.1\Lager.Core.AssemblyInfoInputs.cache
+C:\Lager\Lager\Lager.Core\obj\Debug\netcoreapp3.1\Lager.Core.AssemblyInfo.cs
+C:\Lager\Lager\Lager.Core\obj\Debug\netcoreapp3.1\Lager.Core.csproj.CoreCompileInputs.cache
+C:\Lager\Lager\Lager.Core\obj\Debug\netcoreapp3.1\Lager.Core.dll
+C:\Lager\Lager\Lager.Core\obj\Debug\netcoreapp3.1\Lager.Core.pdb

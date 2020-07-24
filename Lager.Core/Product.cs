@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Lager.Core
 {
-    class Product
+    public class Product
     {
         public int price;
         public string name; 
